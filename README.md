@@ -1,7 +1,7 @@
-# Submission Project Dicoding Analisis Data dengan Python
+# Submission Project Dicoding Analisis Data dengan Python ✨
 
 ## Deskripsi
-Project ini bertujuan untuk menganalisis rental bike pada tahun 2011-2012
+Project ini bertujuan untuk menganalisis rental bike pada tahun 2011-2012 🚲
 
 ## Struktur Direktori
 * dashboard : berisi main.py dan main_data.csv untuk membuat dashboard melalui streamlit
