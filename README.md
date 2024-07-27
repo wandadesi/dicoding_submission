@@ -25,3 +25,5 @@ Project ini bertujuan untuk menganalisis rental bike pada tahun 2011-2012
   cd dicoding/dashboard/
   streamlit run main.py
   ```
+## Akses web streamlit
+(https://dicodingsubmission-bike.streamlit.app/)
