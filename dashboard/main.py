@@ -20,7 +20,7 @@ def load_data(path: str):
   data['dteday'] = pd.to_datetime(data['dteday'])
   return data
 
-df = load_data('/content/main data.csv')
+df = load_data('./dashboard/main_data.csv')
 
 # Select tahun
 yr_selection = st.sidebar.selectbox(
